@@ -1,1 +1,4 @@
-# api_speach2text
+## Setup
+```
+pip install -r requirements.txt
+```
